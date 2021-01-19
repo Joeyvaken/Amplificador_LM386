@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC Pin=CN3-1
+Removed Pin From Net: NetName=GND Pin=CN3-2
+Added Pin To Net: NetName=GND Pin=CN3-1
+Added Pin To Net: NetName=VCC Pin=CN3-2
+Added Member To Class: ClassName=Amp_Lm386 Member=Component D1 LED
+Added Member To Class: ClassName=Amp_Lm386 Member=Component R3 10R
+Added Member To Class: ClassName=Amp_Lm386 Member=Component R4 10K

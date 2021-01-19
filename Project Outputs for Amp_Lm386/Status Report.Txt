@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Amp_Lm386.PrjPcb]
+   Generated File[Amp_Lm386.TXT]
+   Generated File[Amp_Lm386.LDP]
+   Generated File[Amp_Lm386.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:14:47 On 13/07/2019
